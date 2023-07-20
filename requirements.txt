@@ -1,0 +1,12 @@
+imageio
+imgaug=0.4.0
+ninja
+numpy
+opencv-python
+pillow
+pytorch=1.8.0
+scikit-image
+scikit-learn
+tensorboard
+torchvision
+
