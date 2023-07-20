@@ -1,4 +1,5 @@
 ## Cascade RDN: Towards Accurate Localization in Industrial Visual Anomaly Detection with Structural Anomaly Generation - IEEE RA-L 2023
+paper: [IEEE Xplore](https://ieeexplore.ieee.org/document/10187674)
 
 ## Datasets
 To train on the MVtec AD dataset, [download](https://www.mvtec.com/company/research/datasets/mvtec-ad)
